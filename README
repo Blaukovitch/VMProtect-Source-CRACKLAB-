@@ -8,3 +8,25 @@ Building
 
 	Windows:
 		> build.bat
+		
+		
+Absent files
+____________
+1) \core\processors.cc 
+2) \core\intel.cc
+3) \core\arm.cc & arm.h
+4) someelse?
+
+Intreset files
+--------------
+runtime/loader.cc - anti-debug & VM detect 
+runtime/hwid.cc   - hardware ID generation
+runtime/licensing_manager.cc - license manager
+
+LEAKED from
+-----------
+DENUVO Software Solution GmbH (SecuROM)
+
+Support:
+-------
+https://cracklab.team/index.php?threads/859/
